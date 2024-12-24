@@ -66,3 +66,18 @@ if __name__ == "__main__":
             print(f"  {keyword}: {score:.4f}")
         print()
 
+#결과값 
+# Document 1 Keywords:
+#   겨울: 0.4045
+#   보컬: 0.2739
+#   김범수: 0.2739
+
+# Document 2 Keywords:
+#   행복: 0.5465
+#   아메리카노: 0.5465
+#   완벽: 0.5465
+
+# Document 3 Keywords:
+#   따르: 0.3799
+#   노랫말: 0.3799
+#   만들: 0.3799
